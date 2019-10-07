@@ -72,12 +72,12 @@ const emojiItems = [
         genres: ["k-pop", "pop"],
         year: 2016,
     },{
-        title: "Alors On Danse", 
-        artist: ["Stromae"], 
-        featuredArtist: [], 
-        emojiImgs: '🇧🇪💃🕺🐶', 
-        musicVideo: 'https://www.youtube.com/watch?v=VHoT4N43jK8', 
-        genres: ["dance","electronic","hip-hop"], 
+        title: "Alors On Danse",
+        artist: ["Stromae"],
+        featuredArtist: [],
+        emojiImgs: '🇧🇪💃🕺🐶',
+        musicVideo: 'https://www.youtube.com/watch?v=VHoT4N43jK8',
+        genres: ["dance","electronic","hip-hop"],
         year: 2010
     },{
         title: "...Baby One More Time",
@@ -782,7 +782,17 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=WDAd0S92Uko",
         genres: ["pop"],
         year: 2015
-    },{
+    },
+    {
+        title: "Stop! In the Name of Love",
+        artist: ["The Supremes"],
+        featuredArtist: [],
+        emojiImgs: "🛑✋📛📇💕",
+        musicVideo: "https://www.youtube.com/watch?v=NPBkiBbO4_4",
+        genres: ["pop", "R&B", "soul"],
+        year: 1965
+    },
+    {
         title: "Sweet Lullaby",
         artist: ["Deep Forest"],
         featuredArtist: [],
